@@ -120,8 +120,4 @@ Dense + tanh
 Python
 ```
 
----
 
-## Future Work
-
-Replace the native C implementation with an FPGA accelerator while preserving the same Python interface.
